@@ -4,6 +4,6 @@
 
 ---
 
-|     机型      |                                 开发版                                 |                                稳定版                                |                               线刷包                               |
-| :-----------: | :--------------------------------------------------------------------: | :------------------------------------------------------------------: | :----------------------------------------------------------------: |
-| 小米 13 Ultra | [Develop](https://github.com/callng/MIOTA-ishtar/blob/main/Develop.md) | [Stable](https://github.com/callng/MIOTA-ishtar/blob/main/Stable.md) | [Flash](https://github.com/callng/MIOTA-ishtar/blob/main/Flash.md) |
+|     机型      |                                    开发版                                     |                                      稳定版                                      |                                   线刷包                                    |
+|:-----------:|:--------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
+| 小米 13 Ultra | [Develop](https://github.com/callng/MIOTA-ishtar/blob/main/dev/Develop.md) | [Stable](https://github.com/callng/MIOTA-ishtar/blob/main/releases/Stable.md) | [Flash](https://github.com/callng/MIOTA-ishtar/blob/main/flash/Flash.md) |

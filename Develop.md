@@ -1,6 +1,0 @@
-| 版本号            | 文件 MD5                         | 更新时间 | 下载链接                                                                                                                                            |
-| ----------------- | -------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| V14.0.23.9.18.DEV |               null               | 20230922 | [miui_ISHTAR_V14.0.23.9.18.DEV_67ae31fbbf_13.0.zip](https://hugeota.d.miui.com/V14.0.23.9.18.DEV/miui_ISHTAR_V14.0.23.9.18.DEV_67ae31fbbf_13.0.zip) |
-| V14.0.23.9.11.DEV |               null               | 20230915 | [miui_ISHTAR_V14.0.23.9.11.DEV_db2db62521_13.0.zip](https://hugeota.d.miui.com/V14.0.23.9.11.DEV/miui_ISHTAR_V14.0.23.9.11.DEV_db2db62521_13.0.zip) |
-| V14.0.23.9.4.DEV  | cac65476ad7b5346775cac93c4fc8fa1 | 20230908 | [miui_ISHTAR_V14.0.23.9.4.DEV_85defdbce1_13.0.zip](https://hugeota.d.miui.com/V14.0.23.9.4.DEV/miui_ISHTAR_V14.0.23.9.4.DEV_cac65476ad_13.0.zip)    |
-| V14.0.23.8.28.DEV | 85defdbce15d74f4ef87f1459cdd51cc | 20230901 | [miui_ISHTAR_V14.0.23.8.28.DEV_85defdbce1_13.0.zip](https://hugeota.d.miui.com/V14.0.23.8.28.DEV/miui_ISHTAR_V14.0.23.8.28.DEV_85defdbce1_13.0.zip) |
