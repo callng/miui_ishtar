@@ -1,5 +1,6 @@
 | 版本号             | 文件 MD5                         | 更新时间 | 下载链接                                                                                                                                               |
 | ------------------ | -------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| OS1.0.23.12.11.DEV | null                             | 20231215 | [miui_ISHTAR_OS1.0.23.12.11.DEV_73d2cc9d6b_14.0.zip](https://hugeota.d.miui.com/OS1.0.23.12.11.DEV/miui_ISHTAR_OS1.0.23.12.11.DEV_73d2cc9d6b_14.0.zip) |
 | OS1.0.23.12.4.DEV  | null                             | 20231208 | [miui_ISHTAR_OS1.0.23.12.4.DEV_87ecdce7b8_14.0.zip](https://hugeota.d.miui.com/OS1.0.23.12.4.DEV/miui_ISHTAR_OS1.0.23.12.4.DEV_87ecdce7b8_14.0.zip)    |
 | OS1.0.23.11.27.DEV | null                             | 20231201 | [miui_ISHTAR_OS1.0.23.11.27.DEV_12021bcb05_14.0.zip](https://hugeota.d.miui.com/OS1.0.23.11.27.DEV/miui_ISHTAR_OS1.0.23.11.27.DEV_12021bcb05_14.0.zip) |
 | OS1.0.23.11.19.DEV | null                             | 20231121 | [miui_ISHTAR_OS1.0.23.11.19.DEV_ffe3075ca2_14.0.zip](https://hugeota.d.miui.com/OS1.0.23.11.19.DEV/miui_ISHTAR_OS1.0.23.11.19.DEV_ffe3075ca2_14.0.zip) |
