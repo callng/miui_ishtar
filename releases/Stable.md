@@ -1,5 +1,6 @@
 | 版本号             | 文件 MD5 | 更新时间 | 下载链接                                                                                                                                              |
 |--------------------|----------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| OS1.0.6.0.UMACNXM  | 未知     | 未知     | [miui_ISHTAR_OS1.0.6.0.UMACNXM_a4f5ee8a7c_14.0.zip](http://bigota.d.miui.com/OS1.0.6.0.UMACNXM/miui_ISHTAR_OS1.0.6.0.UMACNXM_a4f5ee8a7c_14.0.zip)     |
 | OS1.0.4.0.UMACNXM  | 未知     | 未知     | [miui_ISHTAR_OS1.0.4.0.UMACNXM_0801f3ef9d_14.0.zip](http://bigota.d.miui.com/OS1.0.4.0.UMACNXM/miui_ISHTAR_OS1.0.4.0.UMACNXM_0801f3ef9d_14.0.zip)     |
 | OS1.0.3.0.UMACNXM  | 未知     | 未知     | [miui_ISHTAR_OS1.0.3.0.UMACNXM_0c07956c1f_14.0.zip](http://bigota.d.miui.com/OS1.0.3.0.UMACNXM/miui_ISHTAR_OS1.0.3.0.UMACNXM_0c07956c1f_14.0.zip)     |
 | V14.0.19.0.TMACNXM | 未知     | 未知     | [miui_ISHTAR_V14.0.19.0.TMACNXM_29c78fc8e3_13.0.zip](http://bigota.d.miui.com/V14.0.19.0.TMACNXM/miui_ISHTAR_V14.0.19.0.TMACNXM_29c78fc8e3_13.0.zip)  |
