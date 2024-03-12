@@ -1,0 +1,1 @@
+- 可替换的域名：```https://cdnorg.d.miui.com/```
