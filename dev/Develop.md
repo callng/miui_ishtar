@@ -1,5 +1,6 @@
 | 版本号             | 文件 MD5                         | 更新时间 | 下载链接                                                                                                                                               |
 | ------------------ | -------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| OS1.0.24.5.21.DEV  | null                             | 20240524 | [miui_ISHTAR_OS1.0.24.5.21.DEV_bc181cd550_14.0.zip](https://hugeota.d.miui.com/OS1.0.24.5.21.DEV/miui_ISHTAR_OS1.0.24.5.21.DEV_bc181cd550_14.0.zip)    |
 | OS1.0.24.5.13.DEV  | null                             | 20240517 | [miui_ISHTAR_OS1.0.24.5.13.DEV_b6562210f8_14.0.zip](https://hugeota.d.miui.com/OS1.0.24.5.13.DEV/miui_ISHTAR_OS1.0.24.5.13.DEV_b6562210f8_14.0.zip)    |
 | OS1.0.24.5.6.DEV   | null                             | 20240510 | [miui_ISHTAR_OS1.0.24.5.6.DEV_e6cd8610cb_14.0.zip](https://hugeota.d.miui.com/OS1.0.24.5.6.DEV/miui_ISHTAR_OS1.0.24.5.6.DEV_e6cd8610cb_14.0.zip)       |
 | OS1.0.24.4.22.DEV  | null                             | 20240426 | [miui_ISHTAR_OS1.0.24.4.22.DEV_02f3d23a0e_14.0.zip](https://hugeota.d.miui.com/OS1.0.24.4.22.DEV/miui_ISHTAR_OS1.0.24.4.22.DEV_02f3d23a0e_14.0.zip)    |
